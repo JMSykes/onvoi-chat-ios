@@ -5,7 +5,7 @@ Put your Onvoi custom chat in an iOS app. Swift Package, iOS 15+.
 **Xcode → File → Add Package Dependencies…** and add this package, or in `Package.swift`:
 
 ```swift
-.package(url: "<Onvoi package URL>", from: "1.0.0")
+.package(url: "https://github.com/JMSykes/onvoi-chat-ios", from: "1.0.0")
 ```
 
 ## UIKit
